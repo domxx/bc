@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"createhead": "Page creation",
+	"createnote": "Don't forget to create page in other languages:",
+	"edithead": "Page editation",
+	"editnote": "Don't forget to edit page in other languages:",
+	"default-languageless-content": "{{LangLessPlaceholder}}",
+	"multilangedit": "Create missing pages",
+	"multilangredirects": "Create page redirects",
+	"createlanglesspagebutton": "Create languageless version of this page",
+	"languagelesspagecreated": "Languageless version was successfully created.",
+	"missingversions": "Missing language versions (click to ''create'' ): ",
+	"existingversions": "Existing language versions (click to ''view'' ): ",
+	"create-transl-table-button": "Create translations table",
+	"transl-table-created-info": "'''Table ''translations'' was successfuly created.<br />'''",
+	"transl-table-not-yet-created-info": "'''Required table ''translations'' is not yet created.'''",
+	"translation-edited": "Translation for page was successfuly edited.",
+	"edit-translation-button": "Edit page translation"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"createhead": "Vytvorenie stránky",
+	"createnote": "Nezabudnite vytvoriť stránku aj v ostatných jazykoch:",
+	"edithead": "Úprava stránky",
+	"editnote": "Nezabudnite upraviť stránku aj v ostatných jazykoch:",
+	"default-languageless-content": "{{LangLessPlaceholder}}",
+	"multilangedit": "Vytvoriť chýbajúce stránky",
+	"multilangredirects": "Vytvoriť presmerovania stránok",
+	"createlanglesspagebutton": "Vytvoriť bezjazykovú verziu tejto stránky",
+	"languagelesspagecreated": "Bezjazyková verzia bola úspešne vytvorená.",
+	"missingversions": "Chýbajúce jazykové verzie (kliknutím ''vytvoríte'' ): ",
+	"existingversions": "Existujúce jazykové verzie (kliknutím ''zobrazíte'' ): ",
+	"create-transl-table-button": "Vytvoriť tabuľku translations",
+	"transl-table-created-info": "'''Tabuľka ''translations'' bola úspešne vytvorená.<br />'''",
+	"transl-table-not-yet-created-info": "'''Potrebná tabuľka ''translations'' ešte nie je vytvorená.'''",
+	"translation-edited": "Preklad stránky bol úspešne upravený.",
+	"edit-translation-button": "Upraviť preklad stránky"
+}
